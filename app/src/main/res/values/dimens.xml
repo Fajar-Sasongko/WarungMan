@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="xxs">4dp</dimen>
+    <dimen name="xs">8dp</dimen>
+    <dimen name="sm">12dp</dimen>
+    <dimen name="md">16dp</dimen>
+    <dimen name="lg">20dp</dimen>
+    <dimen name="xl">24dp</dimen>
+    <dimen name="xxl">28dp</dimen>
+    <dimen name="img_pp">48dp</dimen>
+    <dimen name="font_xxs">4sp</dimen>
+    <dimen name="font_xs">8sp</dimen>
+    <dimen name="font_sm">12sp</dimen>
+    <dimen name="font_md">16sp</dimen>
+    <dimen name="font_lg">20sp</dimen>
+    <dimen name="font_xl">24sp</dimen>
+    <dimen name="font_xxl">28sp</dimen>
+</resources>

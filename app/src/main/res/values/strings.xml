@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WarungMan</string>
+    <string name="exitConfirm">Tekan sekali lagi untuk keluar</string>
+    <string name="incorrectData">Username atau password salah</string>
+    <string name="badConnection">Koneksi bermasalah</string>
+    <string name="error">Terjadi kesalahan</string>
+    <string name="loading">Memuat data</string>
+    <string name="logoutNotification">Anda telah logout</string>
+</resources>
